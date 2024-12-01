@@ -1,4 +1,4 @@
-# ToDo - Task Management App 📝⏱️
+# ToDo - Task Management App
 
 **ToDo** is a feature-rich mobile application built with **Kotlin**, designed to help users manage their tasks efficiently. With its intuitive design and functional capabilities, ToDo provides users with powerful tools for task tracking, time management, and productivity enhancement.
 
