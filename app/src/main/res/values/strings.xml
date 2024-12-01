@@ -1,0 +1,50 @@
+<resources>
+    <!-- 1st page and onboard page texts -->
+    <string name="app_name">ToDo</string>
+    <string name="logo_name">ToDo</string>
+    <string name="welcome">Welcome to ToDo</string>
+    <string name="welcomeTxt">Stay organized, stay on track! Easily manage your tasks, set timers, and boost your productivity.</string>
+    <string name="startButton">Let\'s Start</string>
+
+    <!-- navBar -->
+    <string name="home">Home</string>
+    <string name="plus">Add Tasks</string>
+
+    <!-- Create task page texts -->
+    <string name="Create_task">Create New Task</string>
+    <string name="tName">Task Name</string>
+    <string name="date">Date</string>
+    <string name="expectTime">Expected Time</string>
+    <string name="taskDes">Description</string>
+    <string name="createBtn">Create Task</string>
+
+    <!-- Hints -->
+    <string name="hintName">Enter task name</string>
+    <string name="hintDate">DD/MM/YYYY</string>
+    <string name="hintHours">HH:MM:SS</string>
+
+    <!-- update task -->
+    <string name="updateTopic">Update Task</string>
+    <string name="updateBtn">Update</string>
+
+    <!-- item list task -->
+    <string name="tLName">Task Name</string>
+    <string name="tLDate">Task Date</string>
+    <string name="tLTime">Task Time</string>
+    <string name="tLDes">Task Description</string>
+
+    <!-- Task action list -->
+    <string name="startAction">Start</string>
+    <string name="updateAction">Update</string>
+    <string name="deleteAction">Remove</string>
+
+    <!-- timer -->
+    <string name="iniTimer">00:00:00</string>
+
+    <string name="doThis">Let\'s Do This</string>
+    <string name="listName">To Do List</string>
+
+    <!-- widget -->
+    <string name="widget_text">Remaining Tasks: </string>
+
+</resources>
